@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "image": "profile_pics/car-ge6b54a6cd_1280.jpg",
+        "user_id": 1
+    },
+    {
+        "id": 3,
+        "image": "profile_pics/butterfly-gd4b208a56_1280.png",
+        "user_id": 4
+    },
+    {
+        "id": 4,
+        "image": "profile_pics/butterfly-gd4b208a56_1280_c98Xkzb.png",
+        "user_id": 2
+    },
+    {
+        "id": 5,
+        "image": "profile_pics/butterfly-gd4b208a56_1280_tRwm85t.png",
+        "user_id": 3
+    }
+]
